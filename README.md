@@ -184,6 +184,11 @@ Consumer Electronics.
 
 ---
 
+## Acknowledgements
+
+Developed with AI-assisted mentoring (Claude, Anthropic).
+All research contributions, design decisions, and implementation by the author.
+
 ## License
 
 - **Source code** (`src/`, `experiments/`): [MIT License](LICENSE)
