@@ -1,0 +1,12 @@
+setup.py
+src/vecsim/__init__.py
+src/vecsim/agent.py
+src/vecsim/channel.py
+src/vecsim/edge_server.py
+src/vecsim/task.py
+src/vecsim/vehicle.py
+src/vecsim.egg-info/PKG-INFO
+src/vecsim.egg-info/SOURCES.txt
+src/vecsim.egg-info/dependency_links.txt
+src/vecsim.egg-info/requires.txt
+src/vecsim.egg-info/top_level.txt
