@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: vecsim
-Version: 1.0.0
-Summary: Vehicular Edge Computing Simulator with DRL Scheduling
-Author: Dr. Habte Lejebo
-Requires-Python: >=3.8

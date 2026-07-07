@@ -1,2 +1,6 @@
 
 src/*.egg-info/
+
+src/vecsim/__pycache__/
+
+*.pyc
